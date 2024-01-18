@@ -2,10 +2,10 @@
     {
         "type": "checkpoint",
         "base": "sd-xl",
-        "name": "sd_xl_base_1.0.safetensors",
-        "page": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0",
-        "download": "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0.safetensors",
-        "description": "Stable Diffusion XL base model"
+        "name": "RealVisXL_V3.0_Turbo",
+        "page": "https://huggingface.co/SG161222/RealVisXL_V3.0_Turbo",
+        "download": "https://huggingface.co/SG161222/RealVisXL_V3.0_Turbo/resolve/main/RealVisXL_V3.0_Turbo.safetensors",
+        "description": "model"
     },
     {
         "type": "checkpoint",
